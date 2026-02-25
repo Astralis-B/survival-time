@@ -1,4 +1,4 @@
-# Survival Time
+![#Survival Time](https://cdn.modrinth.com/data/cached_images/b862cd2ec885648e3d249285df751740d16788b4.png)
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green)
 ![Fabric](https://img.shields.io/badge/Modloader-Fabric-blue)
