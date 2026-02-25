@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "survivaltime",
+	"version": "1.0.0",
+	"name": "Survival Time",
+	"description": "Displays time since last death",
+	"authors": ["Astralis"],
+	"license": "MIT",
+	"icon": "assets/survivaltime/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.astralis.survivaltime.DeathTimerMod"
+		],
+		"client": [
+			"com.astralis.survivaltime.DeathTimerRenderer"
+		],
+		"modmenu": [
+			"com.astralis.survivaltime.ModMenuIntegration"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"fabric-api": "*",
+		"minecraft": "~1.21.11",
+		"java": ">=21"
+	}
+}
