@@ -31,7 +31,7 @@ Keep track of your survival progress! Survival Time displays exactly how long yo
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
 2. Install [Fabric API](https://modrinth.com/mod/fabric-api)
-3. Download Survival Time
+3. Download [Survival Time](https://modrinth.com/mod/survival-time-v1/versions)
 4. Place the `.jar` file in your `.minecraft/mods/` folder
 
 ## 🎮 How to Use
